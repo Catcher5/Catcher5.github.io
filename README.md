@@ -95,6 +95,6 @@ Testing a [fun place][a fun place] and [a second link][second link]
 
 ### Paragraphs
 
-Do I contradict myself?··
-Very well then I contradict myself,··
+Do I contradict myself?  
+Very well then I contradict myself,  
 (I am large, I contain multitudes.)
