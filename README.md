@@ -18,14 +18,14 @@ _Of course_ **a little moxie**
 
 ### Links
 
-[Search for it](www.google.com)
-[**really, really**](www.dailykitten.com)
-#### [the BBC](www.bbc.com/news)
+[Search for it](https://www.google.com)
+[**really, really**](https:///www.dailykitten.com)
+#### [the BBC](https://www.bbc.com/news)
 
 Testing a [fun place][a fun place] and [a second link][second link]
 
-[a fun place]: www.zombo.com
-[second link]: www.stumbleupon.com
+[a fun place]: https://www.zombo.com
+[second link]: https://www.stumbleupon.com
 
 ### Images
 
